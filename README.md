@@ -62,7 +62,6 @@ Some screenshots are added from the website :
 
 This project uses React version **18.2** and Tailwind CSS version **3.2**.
 
--> Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
 
 ## Contributing
 
